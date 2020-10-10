@@ -1,0 +1,10 @@
+{
+	"name": "PepTestSqlServer1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/8a573b54-71e1-4f1b-ba81-b1ab71906b2b/resourceGroups/RP-Sandbox/providers/Microsoft.Sql/servers/peptestdbserver",
+		"groupId": "sqlServer",
+		"fqdns": [
+			"peptestdbserver.database.windows.net"
+		]
+	}
+}
